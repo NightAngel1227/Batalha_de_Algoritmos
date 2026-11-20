@@ -4,7 +4,7 @@ Projeto Final de **Projeto e Análise de Algoritmos**, professor Alexandre Barbo
 
 Implementação em Java e comparação experimental de cinco algoritmos de ordenação: **Bubble Sort, Insertion Sort, Selection Sort, Merge Sort e Quick Sort**. Para cada algoritmo medimos comparações, trocas (ou movimentos), tempo de execução e memória alocada, em entradas aleatórias, ordenadas e invertidas, e comparamos os resultados com a análise teórica.
 
-O relatório completo (introdução, fundamentação teórica, metodologia, resultados com gráficos log-log, discussão e conclusão) está em [`src/dados/Relatorio_Batalha_dos_Algoritmos.pdf`](src/dados/Relatorio_Batalha_dos_Algoritmos.pdf).
+O relatório completo (introdução, fundamentação teórica, metodologia, resultados com gráficos log-log, discussão e conclusão) está em [`src/documentos/Relatorio_Final_Batalha_dos_Algoritmos.pdf`](src/documentos/Relatorio_Final_Batalha_dos_Algoritmos.pdf).
 
 ## Integrantes
 
